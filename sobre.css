@@ -9,7 +9,7 @@
 
 .titulo-um, .titulo-dois {
     text-align: left;
-    margin-left: 7%;
+    margin-left: 5%;
     font-size: 280%;
 }
 
@@ -20,7 +20,7 @@
 
 .subtitulo {
     text-align: left;
-    margin-left: 7%;
+    margin-left: 5%;
     font-size: 250%;
     color: rgb(28, 69, 28);
 }
@@ -48,6 +48,4 @@
     border-top: 2px solid #a8a5a5; 
     margin-top: 2px;
 }
-
-
 

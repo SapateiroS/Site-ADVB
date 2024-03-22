@@ -35,25 +35,17 @@ form {
     border-radius: 4px;
 }
 
-button {
-    cursor: pointer;
-    color: #FFF;
-    background-color: #43995C;
-    padding: 1%;
-    font-size: larger;
 
-    border-bottom-color: transparent;
-}
 
 button:hover {
     background-color: #265935;
 }
+
 .fale{
-    background-color: #43995C;
+    background-color: #265935;
     text-align: center;
-    margin-left: 30%;
-    margin-right: 30%;
     align-items: center;
+    width: 100%;
 
 }
 .fale h1{
