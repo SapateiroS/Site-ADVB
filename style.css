@@ -172,6 +172,19 @@ footer {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.green-rectangle:hover {
+    background-color: #3f8653;
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 h1 {
     color: #265935;
