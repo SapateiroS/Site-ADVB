@@ -3,19 +3,22 @@
     margin-left: 7%;
     margin-right: 7%;
     font-size: 130%;
-    line-height: 36px;
-    word-spacing: 4px;
+    line-height: 30px;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 .titulo-um, .titulo-dois {
     text-align: left;
     margin-left: 7%;
     font-size: 280%;
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 .titulo-dois {
-    border-bottom: 2px solid #a8a5a5; 
+    border-bottom: 2px solid #949494; 
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 .subtitulo {
@@ -23,16 +26,18 @@
     margin-left: 7%;
     font-size: 250%;
     color: rgb(28, 69, 28);
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 .data {
-    border-top: 2px solid #a8a5a5;
+    border-top: 2px solid #c2c2c2;
     border-bottom: 2px solid #a8a5a5; 
     text-align: left;
-    margin-left: 4%;
-    font-size: 140%;
+    margin-left: 7%;
+    font-size: 135%;
     color:gray;
-    margin-top: 10px;
+    margin-top: 12px;
+    margin-right: 78%;
 }
 
 .imagem-louis {
@@ -47,7 +52,6 @@
 .titulo-um {
     border-top: 2px solid #a8a5a5; 
     margin-top: 2px;
+    font-family: Arial, Helvetica, sans-serif;   
 }
-
-
 

@@ -77,6 +77,7 @@ body {
     min-width: 160px;
     overflow: auto;
     z-index: 1;
+    font-size: 30px;
 } .dropdown-content a {
     color: white;
     padding: 12px 16px;
@@ -216,21 +217,21 @@ body {
 
 
 .titulo{
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
     color: #000;
-    text-align: left;
-    margin-left: 5%;
+    text-align: center;
     
 }
 
 .paragrafos{
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    text-align: center, justify;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left, justify;
     margin-left: 7%;
     margin-right: 7%;
     font-size: 20px;
-    line-height: 30px;
+    line-height: 25px;
     word-spacing: 0%;
     margin-top: -50px;
 }
@@ -248,4 +249,5 @@ body {
     margin-left: 2%;
     margin-right: 18;
     margin-top: 2%;
+
 }
