@@ -48,3 +48,16 @@ button {
 button:hover {
     background-color: #265935;
 }
+.fale{
+    background-color: #43995C;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    align-items: center;
+
+}
+.fale h1{
+    color: #FFF;
+    padding: 1%;
+}
+
