@@ -172,6 +172,7 @@ footer {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 .green-rectangle:hover {
     background-color: #3f8653;
     width: 500px;
@@ -359,3 +360,11 @@ p {
     margin-top: 2%;
     border-radius: 15%;
 }
+
+#titulo-voluntario {
+    font-size: 40px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding-block: 0.5%;
+    }
